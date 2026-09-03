@@ -1,0 +1,2058 @@
+[
+ {
+  "id": "PA-001",
+  "nom": "A-Cube",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.acubeapi.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-002",
+  "nom": "ABBY",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://abby.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-003",
+  "nom": "ACCENTURE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.accenture.com/fr-fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-004",
+  "nom": "ADEMICO SOFTWARE",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://ademico-software.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-005",
+  "nom": "AGENA 3000",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.agena3000.com/fr/nos-solutions/a3-e-facture",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-006",
+  "nom": "AGICAP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://agicap.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-007",
+  "nom": "AGS RECORDS MANAGEMENT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.ags-recordsmanagement.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-008",
+  "nom": "Arratech",
+  "statut": "Immatriculation définitive",
+  "pays": "Suède",
+  "site": "https://www.arratech.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-009",
+  "nom": "ARTEVA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.arteva.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-010",
+  "nom": "Aruba S.p.A.",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.arubaonesuite.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-011",
+  "nom": "ATGP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.atgp.net/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-012",
+  "nom": "AVALARA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.avalara.com/eu/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-013",
+  "nom": "AXELOR",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://axelor.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-014",
+  "nom": "AXONAUT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://axonaut.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-015",
+  "nom": "AXWAY SOFTWARE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.axway.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-016",
+  "nom": "AZOPIO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.azopio.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-017",
+  "nom": "B2BRouter",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://www.b2brouter.net/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-018",
+  "nom": "B4VALUE.NET",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://www.b4value.net/en/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-019",
+  "nom": "BASWARE",
+  "statut": "Immatriculation définitive",
+  "pays": "Finlande",
+  "site": "https://www.basware.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-020",
+  "nom": "BC SOLUTIONS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://bcsolutions.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-021",
+  "nom": "BILLIT",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://www.billit.eu/fr-be/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-022",
+  "nom": "CBS Corporate Business Solutions",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://www.cbs-consulting.com/en/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-023",
+  "nom": "CECURITY",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.cecurity.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-024",
+  "nom": "CEGEDIM",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.cegedim.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-025",
+  "nom": "CEGI ALFA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.cegi.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-026",
+  "nom": "CEGID",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.cegid.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-027",
+  "nom": "CHAINTRUST by Visma",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.chaintrust.io",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-028",
+  "nom": "CLEARTAX",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.cleartax.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-029",
+  "nom": "COMARCH SA",
+  "statut": "Immatriculation définitive",
+  "pays": "Pologne",
+  "site": "https://www.comarch.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-030",
+  "nom": "CYCLOPE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://cyclope.digital/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-031",
+  "nom": "DARVA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.darva.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-032",
+  "nom": "DEXT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://dext.com/fr/produits/logiciel-facturation",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-033",
+  "nom": "DIGIPHARMACIE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://digipharmacie.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-034",
+  "nom": "DIGITAL TECHNOLOGIES",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://digtechs.com/?lang=fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-035",
+  "nom": "Docnova, MELASOFT GmbH",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://www.melasoft.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-036",
+  "nom": "DOCOON",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://docoon.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-037",
+  "nom": "DOCOON IMMO / FREEDZ",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://docoon.immo/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-038",
+  "nom": "DOCPROCESS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://doc-process.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-039",
+  "nom": "DOCUWARE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://start.docuware.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-040",
+  "nom": "DOKAPI",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://www.dokapi.io/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-041",
+  "nom": "Dougs Facturation gratuite",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.dougs.fr/logiciel-facturation-gratuit/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-042",
+  "nom": "DOXALLIA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.doxallia.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-043",
+  "nom": "ECOSIO",
+  "statut": "Immatriculation définitive",
+  "pays": "Autriche",
+  "site": "https://ecosio.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-044",
+  "nom": "ecosio InterCom, a Vertex Company",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://ecosio.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-045",
+  "nom": "EDICOM France",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://edicomgroup.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-046",
+  "nom": "EDICOM Group",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://edicomgroup.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-047",
+  "nom": "EDICS France",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://edics.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-048",
+  "nom": "EdiEyes Vision Care",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.edieyes.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-049",
+  "nom": "EDT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.group-edt.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-050",
+  "nom": "EEZI powered by VAT IT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://eezi.io/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-051",
+  "nom": "Effinum by SPEE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.effinum.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-052",
+  "nom": "ENERJ",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.enerj.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-053",
+  "nom": "ENTROPICS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://entropics.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-054",
+  "nom": "ESALINK",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.esalink.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-055",
+  "nom": "ESI",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.esi-groupe.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-056",
+  "nom": "ESKER",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.esker.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-057",
+  "nom": "EURO INFORMATION",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.e-i.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-058",
+  "nom": "FACNOTE PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.facnote.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-059",
+  "nom": "FIDUCIAL CLOUD",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.fiducial.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-060",
+  "nom": "FLOWIE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.get-flowie.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-061",
+  "nom": "Fonoa Technologies Limited",
+  "statut": "Immatriculation définitive",
+  "pays": "Irlande",
+  "site": "https://www.fonoa.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-062",
+  "nom": "FULLL",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.fulll.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-063",
+  "nom": "GENERIX Group",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.generixgroup.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-064",
+  "nom": "GEP",
+  "statut": "Immatriculation définitive",
+  "pays": "Finlande",
+  "site": "https://www.gep.com/software/e-invoicing",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-065",
+  "nom": "GESTAV",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://gestav.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-066",
+  "nom": "GROUPE SIGMA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.sigma.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-067",
+  "nom": "GURUSOFT",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://guru-soft.com/fr/france/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-068",
+  "nom": "IAF",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.assistances.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-069",
+  "nom": "ICD International",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://icdint.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-070",
+  "nom": "iEDI ApS",
+  "statut": "Immatriculation définitive",
+  "pays": "Danemark",
+  "site": "https://www.iedi.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-071",
+  "nom": "IGA ASSURANCE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.iga-assurance.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-072",
+  "nom": "In.Te.S.A. spa",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.intesa.it/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-073",
+  "nom": "INDICOM",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.indicom.eu/en/idc-home",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-074",
+  "nom": "INDY",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.indy.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-075",
+  "nom": "INFOLOGIC",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.infologic-copilote.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-076",
+  "nom": "INVOPOP",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://www.invopop.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-077",
+  "nom": "IOPOLE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.iopole.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-078",
+  "nom": "iPaidThat",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://ipaidthat.io/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-079",
+  "nom": "ITESOFT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.itesoft.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-080",
+  "nom": "jefacture.com",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.ecma-solutions.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-081",
+  "nom": "KLEKOON",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.klekoon.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-082",
+  "nom": "KOLECTO PA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.kolecto.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-083",
+  "nom": "KOLECTO PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.kolecto.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-084",
+  "nom": "LE VILLAGE CONNECTE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://village-connecte.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-085",
+  "nom": "Legalinvoice by Tinexta Infocert",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.infocert.it/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-086",
+  "nom": "LOGILEC",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.logilec.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-087",
+  "nom": "LUCCA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.lucca.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-088",
+  "nom": "LUNDI MATIN",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.lundimatin.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-089",
+  "nom": "MACOMPTA.FR",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.macompta.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-090",
+  "nom": "MAROSA",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://marosavat.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-091",
+  "nom": "MEDIUS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.medius.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-092",
+  "nom": "MY FITECO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://myfiteco.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-093",
+  "nom": "MY UNISOFT",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://myunisoft.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-094",
+  "nom": "MyKinexo PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.kinexo.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-095",
+  "nom": "MySupply Aps",
+  "statut": "Immatriculation définitive",
+  "pays": "Danemark",
+  "site": "https://mysupply.dk/en",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-096",
+  "nom": "N2F PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.n2f.com/fr/note-de-frais/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-097",
+  "nom": "NEOTIMO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://neotimo.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-098",
+  "nom": "NTT DATA Business Solutions",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://fr.nttdata.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-099",
+  "nom": "ODOO",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://www.odoo.com/fr_FR",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-100",
+  "nom": "OfficeIn",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://officein.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-101",
+  "nom": "ONE UP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://smallbusiness.oneup.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-102",
+  "nom": "OPEN BEE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.openbee.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-103",
+  "nom": "OPENTEXT",
+  "statut": "Immatriculation définitive",
+  "pays": "Pays-Bas",
+  "site": "https://www.opentext.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-104",
+  "nom": "PAGERO",
+  "statut": "Immatriculation définitive",
+  "pays": "Suède",
+  "site": "https://www.pagero.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-105",
+  "nom": "PARAGON",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.paragon.world/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-106",
+  "nom": "PAYFLOWS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://payflows.io",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-107",
+  "nom": "PENNYLANE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.pennylane.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-108",
+  "nom": "PITNEY BOWES",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.pitneybowes.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-109",
+  "nom": "QONTO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://qonto.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-110",
+  "nom": "QWEEBY",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.qweeby.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-111",
+  "nom": "SAGE",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://www.sage.com/fr-fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-112",
+  "nom": "SAP",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://www.sap.com/france/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-113",
+  "nom": "SCRIBEE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.scribee.tech/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-114",
+  "nom": "SEEBURGER",
+  "statut": "Immatriculation définitive",
+  "pays": "Allemagne",
+  "site": "https://www.seeburger.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-115",
+  "nom": "SEPTEO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.septeopdp.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-116",
+  "nom": "SEQINO",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://seqino.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-117",
+  "nom": "SERENSIA by Quadient",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.serensia.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-118",
+  "nom": "SERES",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.seres.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-119",
+  "nom": "Shine",
+  "statut": "Immatriculation définitive",
+  "pays": "Danemark",
+  "site": "https://www.shine.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-120",
+  "nom": "SNI",
+  "statut": "Immatriculation définitive",
+  "pays": "Slovénie",
+  "site": "https://snitechnology.net/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-121",
+  "nom": "SOLO",
+  "statut": "Immatriculation définitive",
+  "pays": "Suède",
+  "site": "https://www.solo.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-122",
+  "nom": "SOVOS",
+  "statut": "Immatriculation définitive",
+  "pays": "Portugal",
+  "site": "https://www.saphety.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-123",
+  "nom": "SPENDESK",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.spendesk.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-124",
+  "nom": "SPS COMMERCE",
+  "statut": "Immatriculation définitive",
+  "pays": "Pays-Bas",
+  "site": "https://tiekinetix.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-125",
+  "nom": "SRCI",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://solutions.srci.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-126",
+  "nom": "STORECOVE",
+  "statut": "Immatriculation définitive",
+  "pays": "Pays-Bas",
+  "site": "https://www.storecove.com/fr/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-127",
+  "nom": "SUPER PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.superpdp.tech/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-128",
+  "nom": "SYMTRAX",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.symtrax.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-129",
+  "nom": "TAXERA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://taxera.tech/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-130",
+  "nom": "TeamSystem Sellsy",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://go.sellsy.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-131",
+  "nom": "TENOR",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://tenorsolutions.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-132",
+  "nom": "TESISQUARE SPA",
+  "statut": "Immatriculation définitive",
+  "pays": "Italie",
+  "site": "https://www.tesisquare.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-133",
+  "nom": "TESSI Technologies",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.tessi.eu/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 1,
+   "ETI": 1,
+   "PME": 0,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-134",
+  "nom": "TIIME PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.tiime.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 0,
+   "PME": 1,
+   "TPE": 1
+  }
+ },
+ {
+  "id": "PA-135",
+  "nom": "TRADESHIFT BABELWAY",
+  "statut": "Immatriculation définitive",
+  "pays": "Belgique",
+  "site": "https://tradeshift.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-136",
+  "nom": "Transalis Limited",
+  "statut": "Immatriculation définitive",
+  "pays": "Chypre",
+  "site": "https://www.transalis.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-137",
+  "nom": "TRESO2",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "http://www.treso2.com",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-138",
+  "nom": "TUNGSTEN AUTOMATION FRANCE",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.tungstenautomation.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-139",
+  "nom": "TX2 Concept",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://tx2.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-140",
+  "nom": "VENTYA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.ventya.fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-141",
+  "nom": "VERYSWING",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://veryswing.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-142",
+  "nom": "VosFactures",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://vosfactures.fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-143",
+  "nom": "VOXEL, an Amadeus company",
+  "statut": "Immatriculation définitive",
+  "pays": "Espagne",
+  "site": "https://www.voxelgroup.net/facture-electronique/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-144",
+  "nom": "WEPROC",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.weproc.com/fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-145",
+  "nom": "WiseTech GLOBAL",
+  "statut": "Immatriculation définitive",
+  "pays": "Australie",
+  "site": "https://www.wisetechglobal.com/fr-fr/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-146",
+  "nom": "XELYA",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.xelya.com/",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-147",
+  "nom": "YOOZ PDP",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "https://www.getyooz.com/fr",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": {
+   "GC": 0,
+   "ETI": 1,
+   "PME": 1,
+   "TPE": 0
+  }
+ },
+ {
+  "id": "PA-148",
+  "nom": "YTEMS",
+  "statut": "Immatriculation définitive",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P01",
+  "nom": "Basikon",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P02",
+  "nom": "BE FRESH S.à r.l.",
+  "statut": "Immatriculation sous réserve",
+  "pays": "Luxembourg",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P03",
+  "nom": "BLG",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P04",
+  "nom": "CENSE",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P05",
+  "nom": "EAGLESSOFT",
+  "statut": "Immatriculation sous réserve",
+  "pays": "Belgique",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P06",
+  "nom": "EY Expertises & Transactions",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P07",
+  "nom": "FACTUREAPP",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P08",
+  "nom": "FISKALTRUST",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P09",
+  "nom": "Insiders Technologies GmbH",
+  "statut": "Immatriculation sous réserve",
+  "pays": "Allemagne",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P10",
+  "nom": "KALANDA",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P11",
+  "nom": "MY-EDDY",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P12",
+  "nom": "NUMERIA",
+  "statut": "Immatriculation sous réserve",
+  "pays": "Luxembourg",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P13",
+  "nom": "RATIOO",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P14",
+  "nom": "SWILE",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P15",
+  "nom": "Taxilla Europe BV",
+  "statut": "Immatriculation sous réserve",
+  "pays": "Belgique",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P16",
+  "nom": "WAKASTELLAR",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P17",
+  "nom": "YUMAN",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ },
+ {
+  "id": "PA-P18",
+  "nom": "ZEFYR",
+  "statut": "Immatriculation sous réserve",
+  "pays": "France",
+  "site": "—",
+  "email": "—",
+  "deja_profilee": false,
+  "segment": "",
+  "taille": null
+ }
+]

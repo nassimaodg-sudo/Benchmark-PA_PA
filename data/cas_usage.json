@@ -1,0 +1,247 @@
+[
+ [
+  "1",
+  "Multi-commande / Multi-livraison",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "2",
+  "Facture déjà payée par l’ACHETEUR ou un tiers PAYEUR au moment de l’émission",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "3",
+  "Facture à payer par un tiers PAYEUR connu au moment de la facturation",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "4",
+  "Facture à payer par l’acheteur et prise en charge partiellement par un tiers connu à la facturation",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "5",
+  "Frais payés par des collaborateurs avec facture au nom de l’entreprise",
+  "Secteurs / données sensibles"
+ ],
+ [
+  "6",
+  "Frais payés par des collaborateurs sans facture adressée à l’entreprise",
+  "Secteurs / données sensibles"
+ ],
+ [
+  "7",
+  "Facture suite à un achat payé avec carte logée (carte d’achat)",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "8",
+  "Facture à payer à un tiers déterminé au moment de la facturation (affacturage / centralisation de trésorerie)",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "9",
+  "Facture à payer à un tiers connu au moment de la facturation, qui gère aussi la commande / réception",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "10",
+  "Facture à payer à un tiers bénéficiaire inconnu à la création de la facture",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "11",
+  "Facture devant être reçue et traitée par un Tiers pour le compte de l’ACHETEUR",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "12",
+  "Intermédiaire transparent gestionnaire de facture pour son commettant ACHETEUR",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "13",
+  "Sous-traitance avec paiement direct ou délégation de paiement",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "14",
+  "Co-traitance B2B",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "15",
+  "Facture de vente suite à commande et paiement éventuel d’un tiers pour le compte du VENDEUR",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "16",
+  "Facture de débours pour remboursement de la facture de vente payée par le tiers",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "17a",
+  "Facture à payer à un tiers, intermédiaire de paiement (Marketplace)",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "17b",
+  "Facture à payer à un tiers, intermédiaire de paiement et tiers facturant sous mandat",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "18",
+  "Gestion des notes de débit",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "19a",
+  "Facture émise par un tiers facturant avec mandat de facturation",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "19b",
+  "Auto-facturation",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "20",
+  "Facture d’acompte",
+  "Acompte / paiement / encaissement"
+ ],
+ [
+  "21",
+  "Facture définitive / finale après acompte",
+  "Acompte / paiement / encaissement"
+ ],
+ [
+  "22a",
+  "Facture payée avec escompte — prestations de services, TVA à l’encaissement",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "22b",
+  "Facture payée avec escompte — livraisons de biens / TVA sur les débits",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "23",
+  "Auto-facturation entre un particulier et un professionnel",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "24",
+  "Gestion des arrhes",
+  "Acompte / paiement / encaissement"
+ ],
+ [
+  "25",
+  "Gestion des bons et cartes cadeaux",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "26",
+  "Factures avec clause de réserve contractuelle",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "27",
+  "Gestion des tickets de péage vendus à un assujetti",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "28",
+  "Gestion des notes de restaurant émises par un VENDEUR assujetti établi en France",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "29",
+  "Assujetti unique au sens de l’article 256 C du CGI",
+  "Régimes TVA particuliers"
+ ],
+ [
+  "30",
+  "TVA déjà collectée — opération initialement traitée en e-reporting B2C, facturée a posteriori",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "31",
+  "Factures mixtes — opération principale et opération accessoire",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "32",
+  "Paiements mensuels",
+  "Acompte / paiement / encaissement"
+ ],
+ [
+  "33",
+  "Opérations soumises au régime de la marge bénéficiaire",
+  "Régimes TVA particuliers"
+ ],
+ [
+  "34",
+  "Encaissement partiel et annulation d’encaissement",
+  "Acompte / paiement / encaissement"
+ ],
+ [
+  "35",
+  "Notes d’auteur",
+  "Secteurs / données sensibles"
+ ],
+ [
+  "36",
+  "Opérations soumises au secret professionnel et échanges de données sensibles",
+  "Secteurs / données sensibles"
+ ],
+ [
+  "37",
+  "Sociétés en participation",
+  "Régimes TVA particuliers"
+ ],
+ [
+  "38",
+  "Factures avec sous-lignes et regroupements de lignes",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "39",
+  "Intermédiaire transparent regroupant les ventes de plusieurs vendeurs — facture multi-vendeurs",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "40",
+  "Paiements groupés, netting ou compensation en cas d’achats / ventes croisés — facture bidirectionnelle",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "41",
+  "Sociétés de barter",
+  "Régimes TVA particuliers"
+ ],
+ [
+  "42",
+  "Gestion de la détaxe",
+  "Cas métier / flux B2B"
+ ],
+ [
+  "43",
+  "E-reporting pour B2B international",
+  "B2B international / e-reporting"
+ ],
+ [
+  "43a",
+  "Opérations triangulaires",
+  "B2B international / e-reporting"
+ ],
+ [
+  "43b",
+  "Transferts de stocks assimilés à des livraisons intra-communautaires",
+  "B2B international / e-reporting"
+ ],
+ [
+  "44",
+  "Transactions avec des entités établies dans les DROM / COM / TAAF",
+  "DROM / COM / TAAF"
+ ]
+]
